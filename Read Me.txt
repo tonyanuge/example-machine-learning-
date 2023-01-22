@@ -1,0 +1,31 @@
+Name:Tony Anuge
+Student Number: C18731921
+
+
+Features:
+
+Hate Less. To detect hate speech on twitter.
+
+This plugin is compatible with the Twitter post feed. 
+Because current posts do not contain abusive content, 
+you must look for previous posts containing abusive or
+hate speech and bookmark them in order to test the plugin.
+
+To connect and run the pluin.
+
+Step 1: On your IDLE Run python server.py in the terminal. 
+
+Step 2: Open your twitter bookmarked feed.
+
+Step 3: Upload the plugin to Chrome extension and turn on.
+
+Step 4: Go back to the bookmarked feed and refresh the page to view the software effect on its content.
+
+
+Reference:
+
+https://www.w3schools.com/
+https://www.geeksforgeeks.org/machine-learning/
+https://github.com/nemercer/Hacklahoma21
+https://towardsdatascience.com/twitter-sentiment-analysis-nlp-text-analytics-b7b296d71fce
+https://www.kaggle.com/code/diogoteles08/nlp-model-to-predict-hate-speech
