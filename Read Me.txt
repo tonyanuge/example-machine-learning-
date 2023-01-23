@@ -1,6 +1,4 @@
 Name:Tony Anuge
-Student Number: C18731921
-
 
 Features:
 
